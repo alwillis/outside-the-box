@@ -87,3 +87,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://outside-the-box-a9463.netlify.app'
