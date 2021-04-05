@@ -7,7 +7,7 @@ base_font: karla
 header:
   type: header
   title: Agency
-  logo: images/logo.svg
+  logo: /images/1486423861602.png
   logo_alt: Outside the Box
   has_nav: true
   nav_links:
