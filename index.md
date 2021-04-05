@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: "Outside the Box is a creative, think tank agency that pairs cutting edge\n\tideas with revolutionary talent to offer our clients unparalleled services in Brand Management,\n\tPublic Relations and Consulting."
+    title: Outside the Box
     content: >
       Outside the Box is a creative, think tank agency that pairs cutting edge
       ideas with revolutionary talent to offer our clients unparalleled services
