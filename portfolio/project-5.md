@@ -7,7 +7,7 @@ thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
     image: /images/artsemerson.jpg
-    image_alt: Nature Magazine 1
+    image_alt: Artsemerson
     caption: This is the caption of the image
     width: wide
   - type: text_section
