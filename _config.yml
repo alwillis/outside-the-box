@@ -2,7 +2,7 @@ title: Stackbit Agency Theme
 baseurl: /
 permalink: '/:title/'
 color_scheme: dark
-accent_color: green
+accent_color: blue
 base_font: karla
 header:
   type: header
