@@ -1,6 +1,6 @@
 ---
 title: Team Cancer Free
-subtitle: Brand Development
+subtitle: Community
 date: '2020-03-10'
 thumb_image: images/work-branding-1-thumb.jpg
 thumb_image_alt: Aimi preview
