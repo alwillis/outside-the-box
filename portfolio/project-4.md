@@ -7,7 +7,7 @@ thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
     image: /images/techconnect.jpg
-    image_alt: Tech
+    image_alt: Tech Connection
     caption: This is the caption of the image
     width: wide
   - type: text_section
