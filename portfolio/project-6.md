@@ -2,7 +2,7 @@
 title: Wild ‘N Out
 subtitle: Entertainment
 date: '2021-02-06'
-thumb_image: images/work-photography-magazine-1-thumb.jpg
+thumb_image: /images/nervous-petunia.jpg
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
